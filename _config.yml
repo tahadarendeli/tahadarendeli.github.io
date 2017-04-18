@@ -1,10 +1,10 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
+title: Taha Darendeli personal blog
+description: "A blog about my works."
 url: "https://tahadarendeli.github.io"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
+  name: "Taha Darendeli"
+  email: "taha.darendeli@ozu.edu.tr"
   url: "https://tahadarendeli.github.io"
 
 # Build settings
