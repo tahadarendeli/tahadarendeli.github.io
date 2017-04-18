@@ -250,7 +250,8 @@ code {
 footer {
   background-color: $main-color;
   color: $background-color;
-  position:fixed;
+  position:relative;
+  bottom: 0px;
   text-align: center;
   padding: 0.6667em 0;
 }
