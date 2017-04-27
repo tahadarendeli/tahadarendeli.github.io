@@ -1,3 +1,6 @@
+---
+title: ODTU Programlama Yarışması!
+---
 Geçtiğimiz hafta bir arkadaşım bana bir yarışmadan bahsetti. "Abi ODTÜ'nün yaptığı bir algoritma yarışması var ona katılalım." dedi. O günde böyle programlamadır CS işlerinde kendimizi fena dolduruşa getirmişiz, "biz girmeyeceğiz de kim girecek" kafasında katılalım dedik. Bir arkadaş daha bulduk  3 kişilik takım yarışmaya hazırdık. 
 
 Neyse yarışme geçtiğimiz hafta oldu. Olaylar şöyle ilerliyor sana verilen sorular var sen bu soruları çözmen gerekiyor. Çözmen gerekiyor dediğimde istenilen programı çalıştıracak kodları yazmak gerek. Cuma akşamı başlıyor, pazartesi sabaha kadar sürüyor. Programlama dilinde öyle önemli bir sınırlama yoktu tabi ama ilk defa deplasmana çıkıyoruz takla olmayalım diyip Java'da yapmaya karar vermiştik. Cuma gecesini bekler hale geldim ben tabi.
