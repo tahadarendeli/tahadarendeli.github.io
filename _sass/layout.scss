@@ -104,10 +104,8 @@
 /* Main content */
 
 .fixed {
-	display: block;
   position: absolute;
   width: 100%;
-	height: 900px;
   @media (min-width: 940px) {
     position: static;
   }
@@ -116,6 +114,7 @@
 #container {
 	margin:0 auto;
 	max-width: 730px;
+	height: 795px;
 	padding: 0 1.5rem;
 }
 
